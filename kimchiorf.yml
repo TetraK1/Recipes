@@ -1,0 +1,50 @@
+recipe_name: Lakeland Jar Kimchi
+ingredients:
+  - napa cabbage:
+    amounts:
+      - amount: 1
+        unit: kg
+  - sea salt:
+    amounts:
+      - amount: 35
+        unit: g
+  - garlic:
+    amounts:
+      - amount: 6
+        unit: cloves
+  - root ginger:
+    amounts:
+      - amount: 3
+        unit: cm
+  - granulated sugar:
+    amounts:
+      - amount: 1
+        unit: tsp
+  - chilli flakes:
+    amounts:
+      - amount: 3
+        unit: tsp
+  - white radish/daikon:
+    amounts:
+      - amount: 250
+        unit: g
+  - spring onion:
+    amounts:
+      - amount: 100
+        unit: g
+
+steps:
+  - step: Chop the cabbage into strips 2cm wide
+  - step: Place in a large bowl and scatter over the salt
+  - step: Use hands to rub the salt into the cabbage until it begins to wilt
+  - step: Cover the cabbage with cold water and leave for an hour or two
+  - step: Drain and rinse well in a colander
+  - step: Grind garlic, ginger, sugar, chilli flakes in pestle and mortar to form a paste
+  - step: Squeeze most of the liquid from the cabbage and place in large bowl
+  - step: Add radish and spring onions to bowl
+  - step: Add spice paste to bowl and rub in well
+  - step: Pack mixture into fermenting jar, pressing down so juices fill air spaces
+  - step: Place weight(s) on top of kimchi
+  - step: Put lid on jar
+  - step: Ferment at room temperature for 2-6 days, pressing down to keep moist as needed
+  - step: Store in fridge
